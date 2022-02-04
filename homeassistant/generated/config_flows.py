@@ -354,6 +354,7 @@ FLOWS = [
     "vilfo",
     "vizio",
     "vlc_telnet",
+    "volcano",
     "volumio",
     "wallbox",
     "watttime",

@@ -1034,6 +1034,8 @@ homeassistant/components/vizio/* @raman325
 tests/components/vizio/* @raman325
 homeassistant/components/vlc_telnet/* @rodripf @dmcc @MartinHjelmare
 tests/components/vlc_telnet/* @rodripf @dmcc @MartinHjelmare
+homeassistant/components/volcano/* @Quinlan96
+tests/components/volcano/* @Quinlan96
 homeassistant/components/volkszaehler/* @fabaff
 homeassistant/components/volumio/* @OnFreund
 tests/components/volumio/* @OnFreund
